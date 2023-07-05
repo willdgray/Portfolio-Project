@@ -94,6 +94,10 @@ p {
   padding-left: 20px;
 }
 
+div:nth-child(1) {
+  width: 75%;
+}
+
 /* The user's cursor is positioned over the element */
 button:hover {
   background-color: #40b4cf;
@@ -131,7 +135,7 @@ button:focus {
 .my-work img {
   width: 100%;
   border-radius: 0%;
-  height: 250px;
+  height: 300px;
   position: relative;
   top: 60px;
   left: 2px;
@@ -142,4 +146,6 @@ button:focus {
     color: #000;
   }
 }
+
+
 
