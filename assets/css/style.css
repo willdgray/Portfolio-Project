@@ -95,7 +95,7 @@ p {
 }
 
 div:nth-child(1) {
-  width: 75%;
+  width: 100%;
 }
 
 /* The user's cursor is positioned over the element */
